@@ -23,7 +23,7 @@
 
 
 # If u want to migrate (i mean distro hop):
-- [ ] git init this notes folder 
+- [x] git init this notes folder 
 - [x] star the wallpaper repo
-- [ ] check bookmarks (missing semester, dzuma networking, eli the computer guy, dsa project ideas, flappy bird harkirat, beej's networking guide)
-- [ ] check projects
+- [ ] check bookmarks (missing semester, dzuma networking, eli the computer guy, dsa project ideas, flappy bird harkirat, beej's networking guide, webrtcforthecurious, extremely underated programming resources youtube video)
+- [x] check projects
