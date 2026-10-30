@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "7d0cbd065aa95d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e2886d0e454359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3ac89e9fdd6076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "53.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "53"
+            }
+          },
+          {
+            "id": "c4be5a02d650e0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "striver.hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "striver.hashing"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c570eea7f9e0d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ded401fed85bf97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435ea04ed1f9db29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "275fe6570589be17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b177ef327533602c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "61e56a8377c521b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d17897bd5a17243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7ba8fac71193fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "webrtc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "08d1099d98d43db8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8d806837569e32b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f31c4609bb730971",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "76ee868ca4e91523",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "webrtc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.79296875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "6c3ac89e9fdd6076",
+  "lastOpenFiles": [
+    "striver.hashing.md",
+    "53.md",
+    "todo.md",
+    "11.md",
+    "pix/Pasted image 20261030103324.png",
+    "leetcode/121.md",
+    "omegle_clone.md",
+    "project_ideas.md",
+    "webrtc.md",
+    "SFU.md",
+    "MCU.md",
+    "leetcode/2965.md",
+    "career.md",
+    "leetcode/169.md",
+    "leetcode",
+    "Excalidraw/Drawing 2026-10-28 19.53.36.excalidraw.md",
+    "leetcode/50.md",
+    "pix/Pasted image 20261029115834.png",
+    "pix/Pasted image 20261028191842.png",
+    "pix",
+    "Excalidraw/Drawing 2026-10-28 20.38.46.excalidraw.md",
+    "cohort",
+    "pix/Pasted image 20261028185902.png",
+    "Excalidraw/Drawing 2026-10-28 17.55.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-28 18.42.12.excalidraw.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw/Drawing 2026-10-28 18.37.06.excalidraw.md",
+    "Welcome.md",
+    "Excalidraw",
+    "Screenshot From 2026-10-28 11-21-13.png"
+  ]
+}
