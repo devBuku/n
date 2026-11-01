@@ -1,16 +1,10 @@
 # Today
-- [ ] Solve Day 2 Problems Morning (4:30 am)
-- [ ] Hashing (Striver and apna college) Evening
+- [ ] Hashing (Striver and apna college) Morning ==First Do Hasing From Apna college only Solve Problems Then Striver Hashing== Then 2d
 - [ ] 2d Matrix Evening
-- [ ] Pointers video freecodecamp ==🟠Important to finish today==
-- [ ] Ag noobies lectures and make sure you solve some problems from code forces (late night) ==🟡Optional==
-# On or before 1st November
-- [ ] Freecodecamp data structure video
-	- [ ] 31st October
-	- [ ] 1st November
-- [ ] Freecodecamp pointers video 
-	- [ ] 30th October
-	
+- [ ] Then solve the remaining problems (if possible solve neetcode problems also)
+- [ ] Mac architecture video by sriniously afternoon
+- [ ] Ag noobies lectures and make sure you solve some problems from code forces (late night) ==🔵Optional==
+
 # Others
 - [ ] Hitesth backend needed to watch the videos before travarsa interview
 - [ ] Auth using cookies by harkirat also need to watch

@@ -3,5 +3,6 @@
   "showRibbon": true,
   "textFontFamily": "AtkynsonMono Nerd Font Mono",
   "cssTheme": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "AtkynsonMono Nerd Font Mono"
 }

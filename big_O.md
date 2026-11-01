@@ -1,0 +1,1 @@
+1. If the input halves at each step, its likely O(LogN) or O(NLogN)

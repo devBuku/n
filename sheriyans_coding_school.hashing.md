@@ -1,0 +1,1 @@
+Hashing: is a process or technique of converting a value into unique sin code (Hash code) for storing and accessing data quickly 
