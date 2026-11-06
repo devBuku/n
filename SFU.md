@@ -14,7 +14,7 @@
 		- The user itself sends multiple qualities videos to the SFU
 		- Then the receiver's browser can ask the SFU server for the particular resolution of video
 	- Receiving video in paginated manner (for e.g. zoom)
-- ==The disadvantage is that we have to receive everyone's audio present on the call we can do pagination on video we cannot do pagination on audio (this leads to audio crackling)==
+- ==The disadvantage of SFU is that we have to receive everyone's audio present on the call we can do pagination on video we cannot do pagination on audio (this leads to audio crackling)==
 
 ## Distributed SFU Architecture
 ![[Drawing 2026-10-28 20.38.46.excalidraw]]
@@ -27,3 +27,6 @@
     - **TURN server**: Its purpose is to relay network traffic when a direct connection cannot be established.
     - Sometimes, we can even use a TURN server to relay media traffic between a client and the SFU server.
     - **They can work together: If a client cannot establish a direct connection to the SFU, its WebRTC connection can use a TURN server as a relay**
+
+[[webrtc]]
+[[cohort]]

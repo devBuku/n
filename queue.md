@@ -64,3 +64,5 @@ export default class Queue<T> {
     }
 }
 ```
+
+[[frontend_masters]]

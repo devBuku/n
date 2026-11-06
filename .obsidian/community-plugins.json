@@ -1,4 +1,6 @@
 [
   "better-vim",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "omnisearch",
+  "calendar"
 ]

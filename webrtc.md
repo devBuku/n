@@ -7,6 +7,7 @@
 - **HLS** = 10 seconds or more of delay → cricket matches → can prioritize high-quality, stable playback.
 - **WebRTC** = low delay → useful for interactive calls, but can require more infrastructure and bandwidth costs. Playback can be choppy if the network is unstable.
 
+
 # jargon
 
 [WebRTC For The Curious](https://webrtcforthecurious.com/)
@@ -70,7 +71,7 @@ To actually send media, we have to:
 3. Call **addTrack** on the pc (peer connection)
 4. This would trigger a **onTrack** callback on the other side
 
-![[Pasted image 20261028191842.png]]
+![[webrtc_code_diagram_comparison_cohort.png]]
 
 
 # Doubts
@@ -80,7 +81,7 @@ To actually send media, we have to:
 
 # btw
 
-![[Pasted image 20261028185902.png]]
+![[jsfiddle_permission_request.png]]
 
 > The JSFiddle website asked me to whitelist it. (That means scripts running on the website can execute in my browser, subject to the browser's security restrictions and permissions. Depending on the situation, they may be able to access cookies and other data available to that site.) While Harkirat was showing the WebRTC example, he also showed `about:webrtc` (Firefox's WebRTC debugging page). Because of Firefox and uBlock Origin's content blocking, I got this pop-up, but it wouldn't appear on Chrome.
 
@@ -89,3 +90,4 @@ To actually send media, we have to:
 # Other architectures
 [[SFU]]
 [[MCU]]
+[[cohort]]

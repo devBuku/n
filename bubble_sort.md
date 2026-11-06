@@ -19,3 +19,6 @@ export default function bubble_sort(arr: number[]): void {
     }
 }
 ```
+
+[[frontend_masters]]
+[[sorting]]

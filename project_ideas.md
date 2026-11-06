@@ -29,3 +29,6 @@
 - [VisuAlgo — Algorithm Visualizations](https://visualgo.net/en)
 - [DSA Project Ideas — GitHub](https://github.com/adhithyalakshman/DSA-PROJECT-IDEAS)
 - [Redis Data Structures](https://redis.io/docs/latest/develop/data-types/)
+
+- [ ] Flappy bird harkirat
+- [ ] [[omegle_clone]] harkirat build your own xyz

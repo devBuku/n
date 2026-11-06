@@ -1,8 +1,9 @@
 {
   "showViewHeader": false,
   "showRibbon": true,
-  "textFontFamily": "AtkynsonMono Nerd Font Mono",
-  "cssTheme": "",
+  "textFontFamily": "CodeNewRoman Nerd Font,AtkynsonMono Nerd Font,Iosevka Nerd Font Mono",
+  "cssTheme": "Zenburn",
   "theme": "obsidian",
-  "monospaceFontFamily": "AtkynsonMono Nerd Font Mono"
+  "monospaceFontFamily": "CodeNewRoman Nerd Font Mono,AtkynsonMono Nerd Font Mono,Iosevka Nerd Font Mono",
+  "interfaceFontFamily": ""
 }

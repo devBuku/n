@@ -18,3 +18,4 @@
    - Doubly linked list: Prepend and append are constant time if we maintain references to both the head and tail.
 
 1. The ordering of operations matters because if we do `c.next = undefined` before accessing `d`, we can never get access to `d` again, unless we have another reference to it.
+[[frontend_masters]]

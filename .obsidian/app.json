@@ -3,5 +3,8 @@
   "showInlineTitle": false,
   "showLineNumber": true,
   "attachmentFolderPath": "pix",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "openBehavior": "daily",
+  "showIndentGuide": false
 }

@@ -7,6 +7,11 @@
 	3. Server sends it back to user2
 	4. user2 be like "ok, this is where i will find user1", this my ip and everything please send it to user1
 	5. Now they can talk peer to peer even after the server crashes because ip is exchanged
+5. our platform can support 1000 people (there will be 500 rooms) with 2 people connected to each other
+6. Tech Stack:
+	1. FE = React / Webrtc Apis (Frontend heavy project)
+	2. BE = Real time server / signalling server
 
 # Doubt
-1. What is a Map? Also what is Map in javascript specifically
+ - [x] What is a Map? Also what is Map in javascript specifically?
+	- [[sheriyans_coding_school.hashing]]

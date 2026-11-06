@@ -41,3 +41,5 @@ function bs(haystack: number[], needle: number): boolean {
 - Time: `O(log n)` | Space: `O(1)`
 
 **Quick recall:** Exclusive means `[st, end)` — `st` is included, `end` is excluded.
+[[frontend_masters]]
+[[searching]]

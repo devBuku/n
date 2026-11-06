@@ -22,7 +22,7 @@ export default class Stack<T> {
 
     push(item: T): void {
         const node = { value: item } as Node<T>;
-        this.length++;
+        this.length++; // must increase length before if statement 
 
         if (!this.head) {
             this.head = node;
@@ -48,3 +48,5 @@ export default class Stack<T> {
     }
 }
 ```
+
+[[frontend_masters]]
