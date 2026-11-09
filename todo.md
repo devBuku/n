@@ -2,7 +2,6 @@
 ## Deadline
 - [ ] Complete Uber on or before 8th november (Sunday)
 ## Upcoming
-- [ ] ==7th October Saturday — ABC Contest==
 - [ ] Intersection of two arrays II
 
 ## Learning & Courses
