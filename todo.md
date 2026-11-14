@@ -1,15 +1,42 @@
+## Deadline (==NAK KAN CHOKH BUJHE EIGULO KOR==)
 
-## Deadline
-- [ ] Complete Uber on or before 8th november (Sunday)
+## Part 1
+- [ ] Hitesh backend — watch videos before Travarsa interview
+- [ ] Web networking boot.dev (freecodecamp)
+- [ ] DBMS (Codehelp) - once boot.dev course done continue with this
+- [ ] SQL freecodecamp
+- [ ] Complete Uber [before 14th November Saturday]
+
+
+## Part 2
+- [ ] Auth using cookies — Harkirat Singh
+- [ ] Harkirat Excalidraw — finish this before moving forward
+- [ ] MTA
+- [ ] Testing in MERN stack — Harkirat Singh (5 hours + content available)
+- [ ] Omegle clone [[omegle_clone]] — Harkirat, build your own XYZ
+- [ ] Omegle clone — try local WebRTC connection if hosting is not possible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Upcoming
 - [ ] Intersection of two arrays II
 
 ## Learning & Courses
-- [ ] Hitesh backend — watch videos before Travarsa interview
-- [ ] Auth using cookies — Harkirat Singh
+
 - [ ] 70 LeetCode problems — Stoney Codes
 - [ ] Piyush System Design
-- [ ] Testing in MERN stack — Harkirat Singh (5 hours + content available)
+
 - [ ] Sriniously System Design
 - [ ] Harkirat Singh Web3 playlist on YouTube
 - [ ] Flappy Bird — Harkirat
@@ -37,9 +64,6 @@
 - [ ] Chat Message Delivery Queue — Queues, Hash Maps, Ordering
 
 ### Full-Stack & Other Projects
-- [ ] Omegle clone [[omegle_clone]] — Harkirat, build your own XYZ
-- [ ] Omegle clone — try local WebRTC connection if hosting is not possible
-- [ ] Harkirat Excalidraw — finish this before moving forward
 - [ ] Chess project — combine Harkirat and Sheriyans Coding School versions, polished
 - [ ] MERN Real Estate — LamaDev (learn Prisma, deploy)
 - [ ] Pinterest clone — continue the project with Sarnick from years ago

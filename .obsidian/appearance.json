@@ -1,9 +1,9 @@
 {
   "showViewHeader": false,
   "showRibbon": true,
-  "textFontFamily": "",
+  "textFontFamily": "FiraCode Nerd Font",
   "cssTheme": "",
-  "theme": "system",
-  "monospaceFontFamily": "",
+  "theme": "moonstone",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "interfaceFontFamily": ""
 }

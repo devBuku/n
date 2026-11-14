@@ -1,1 +1,5 @@
 - [ ] Last Date to register for ==infosys== is 6th november (Friday)
+- [ ] 12th november last date to register for ==Cloudnex Technologies Services==
+	- 4.25lpa
+	- 12 noon sharp
+	- Campus recruitment
