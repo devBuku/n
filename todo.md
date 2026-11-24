@@ -1,20 +1,39 @@
 ## Deadline (==NAK KAN CHOKH BUJHE EIGULO KOR==)
-
-## Part 1
-- [ ] Hitesh backend — watch videos before Travarsa interview
+## Lectures to watch ASAP
 - [ ] Web networking boot.dev (freecodecamp)
+- [ ] Kunal Kushwaha networking (immediately after boot.dev lecture)
+- [ ] Hitesh backend — watch videos before Travarsa interview [[hitesh_backend]]
+- [ ] Piyush garg nodejs video also (if possible)
+- [ ] Auth using cookies — Harkirat Singh
+- [ ] Recursion Apna college / striver
+- [ ] Math for dsa
+- [ ] ==Hitesh networking==
+
 - [ ] DBMS (Codehelp) - once boot.dev course done continue with this
 - [ ] SQL freecodecamp
-- [ ] Complete Uber [before 14th November Saturday]
+
+
+
+## Part 1
+- [ ] Pinterest clone — continue the project with Sarnick from years ago
+- [ ] Harkirat Excalidraw — finish this before moving forward 
+- [ ] MERN Real Estate — LamaDev (learn Prisma, deploy)
+
+- [ ] MTA
+- [ ] Uber clone (sheriyans coding school applying the knowledge from hitesh backend and mta)
+
+- [ ] Chess project — combine Harkirat and Sheriyans Coding School versions, polished
+
+
+
 
 
 ## Part 2
-- [ ] Auth using cookies — Harkirat Singh
-- [ ] Harkirat Excalidraw — finish this before moving forward
-- [ ] MTA
+
 - [ ] Testing in MERN stack — Harkirat Singh (5 hours + content available)
 - [ ] Omegle clone [[omegle_clone]] — Harkirat, build your own XYZ
 - [ ] Omegle clone — try local WebRTC connection if hosting is not possible
+- [ ] [Used passport js creating a contract saas](https://www.youtube.com/watch?v=4qdQ7kE80SY) 
 
 
 
@@ -64,9 +83,7 @@
 - [ ] Chat Message Delivery Queue — Queues, Hash Maps, Ordering
 
 ### Full-Stack & Other Projects
-- [ ] Chess project — combine Harkirat and Sheriyans Coding School versions, polished
-- [ ] MERN Real Estate — LamaDev (learn Prisma, deploy)
-- [ ] Pinterest clone — continue the project with Sarnick from years ago
+
 - [ ] Express clone — https://github.com/antsmartian/lets-build-express
 - [ ] GreatStack cloud storage platform
 - [ ] Social Media — LamaDev beginner project

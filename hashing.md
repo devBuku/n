@@ -1,0 +1,2 @@
+- [Simon dev playlist](https://www.youtube.com/playlist?list=PLRL3Z3lpLmH0FiSWovfiBtxNczQg0Hzry) (At least watch the hashing video)
+- [DSA playlist by a professor youtube](https://www.youtube.com/playlist?list=PLi2pCZz5m6GEftzPIxVH1ylwytux9WOGN) (At least watch the hashing videos)

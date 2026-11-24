@@ -1,9 +1,9 @@
 {
   "showViewHeader": false,
   "showRibbon": true,
-  "textFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "DejaVuSansM Nerd Font,AtkynsonMono Nerd Font",
   "cssTheme": "",
-  "theme": "moonstone",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "theme": "system",
+  "monospaceFontFamily": "DejaVuSansM Nerd Font Mono,AtkynsonMono Nerd Font Mono",
   "interfaceFontFamily": ""
 }
